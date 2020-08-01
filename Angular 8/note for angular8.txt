@@ -1,0 +1,162 @@
+What is Angular 8
+Angular is a Framework of JavaScript used to build web and mobile applications. Angular 8 is a client-side TypeScript based structure which is used to create dynamic web applications. Its first version was released by Google in 2012 and named as AngularJS. Angular 8 is the updated version of Angular 8.Before starting Angular, we must have a good understanding of JavaScript, HTML, CSS, AJAX, and TypeScript.
+
+Angular 8 is a great UI (User Interface) library for the developers. Angular is a reusable UI component helps us constructing attractive, consistent, and functional web pages and web application. Angular 8 is a JavaScript framework which makes us able to create an attractive Single Page Applications (SPAs).
+
+What is Ng in Angular?
+The prefix ng stands for “Angular;” all of the built-in directives that craft with Angular use that prefix. Similarly, it is suggested that you do not use the ng prefix on your instructions to avoid possible name impacts in future versions of Angular.
+
+History of Angular
+
+History of Angular 1
+The first version of Angular is Angular1.0 is also known as Angular JS, which was released in 2010. It was mainly designed for single-page web apps which were owned by Google.
+
+History of Angular 8
+Angular 8.0 was introduced in October 2014. It was the same as Angular, so the changes in 2.0 created controversy among developer. On April 30, 2015, the Developers Announced that Angular 8 moved from Alpha to Developer preview and beta version was released on December 2015. Its first version was published on May 2016, and the last version was released on September 14, 2016.
+
+History of Angular 4
+Angular4 versions were announced on December 13, 2016. The developer skipped version 3 due to some confusion. It was released on March 23, 2017. It is compatible with most of the applications, and it provides better bug fixed, and alerts compare to Angular 8.
+
+History of Angular 5
+The version of Angular was released on November 17, 2017. It provided some improvements to support progressive web apps, also includes development. It was small in size and faster as compared to the previous version of Angular that is angular4. There is an Angular Universal State Transfer (UST) also given that supports API and DOM.
+
+History of Angular 6
+It was released on May 2008. The various features have come with the release of angular 6 are follows:
+Updating in a lean command-line interface.
+We are updating in a Component development kit.
+
+History of Angular 8
+The latest version of Angular is Angular 8. It was released on October 18, 2018. It has many incredible characteristics.
+
+Updates regarding Application Performance
+Angular Material & CDK
+Virtual Scrolling
+Improved Accessibility of Selects
+Supports Content Projection using web standard in custom elements.
+--------------------------------some Questions ---------------------------------------------
+1) What is Angular 8?
+It is an open source JavaScript framework which is used to build web applications in JavaScript and HTML.
+
+It is also used to overcome obstacles encountered while working with Single Page applications.
+
+2) What are the features of Angular 8?
+Features of Angular 8 are:
+
+Components: Helps in maintaining the application and to build the applications into many modules
+TypeScript: TypeScript is a superset of JavaScript
+Services: Set of code that can be shared by different components of an application
+3) What are the components available in Angular 8?
+The components available in Angular 8 are:
+
+Modules
+Component
+Templates
+Metadata
+Service
+4) What are the ways to get started with your first Angular JS application?
+There are three ways to get started with your first application are:
+
+Use scratch
+Use the quick start at Angular Github
+use Angular CLI
+5)What is NgModule decorator?
+NgModule decorator is used to define the declarations, imports and bootstrapping options.
+
+6) What is Import and Export array?
+Import array is used to import the functionality from other Angular JS modules.
+
+Export array is used to export directives, components and pipes.
+
+7) What are the advantages of using Angular 8 over Angular 1?
+Advantages of using Angular 8 over Angular 1:
+
+Modular
+Easy to Learn
+Cross platform
+Angular 8 is also a platform
+Better Speed and Performance
+ES6 and Typescript is also available
+8) What are the lifecycle phases of Angular 8 application?
+Lifecycle phases of Angular 8 application:
+
+constructor
+ngOnChanges
+ngOnInit
+ngDoCheck
+ngAfterContentInit
+ngAfterContentChecked
+ngAfterViewInit
+ngAfterViewChecked
+ngOnDestroy
+9) What is Routing in Angular 8?
+Routing helps in enables user to navigate between views and components.
+
+Angular 8 simplifies routing and provide flexibility.
+
+10) What is Date filter?
+Date filter: It is used to convert the input string to date format.
+
+11) What is Dependency Injection?
+Dependency Injection: It is the ability to add the functionality of components at runtime.
+
+12) What is CLI?
+CLI stands for Command Line Interface, and it is used to create Angular JS application.
+
+13) What are Angular 8 directives?
+Commonly used filters are:
+
+It is a custom HTML element which is used to extend the power of HTML.
+
+Types of Angular 8 directives:
+
+ngif
+ngFor
+14) Which components are used to configure routing in Angular 8?
+Three main components are:
+
+Routes
+RouterOutlet
+RouterLink
+15) What are Modules in Angular 8?
+Modules are used to put logical boundaries in your application. To separate the functionality of your application, you need to build everything into separate modules.
+
+16) Which command is used to check the version of node.js in the command prompt?
+The command used is: node -v.
+
+17) Which command is used to install npm (node package manager)?
+The command used is: npm install (inside Node.js command prompt).
+
+18) What is TypeScript?
+TypeScript: It is a superset of JavaScript which is used for application-scale development. TypeScript is also an object-oriented and compiled language.
+
+19) What is Shadow Dom in Angular 8?
+Shadow Dom: It refers to a subtree of DOM elements which is the part of the document, but not into the main document of DOM tree.
+
+Here, the Shadow Dom is created when we are creating a component in Angular 8.
+
+20) What is Codelyzer in Angular 8?
+Codelyzer: It is an open source tool which is used to check whether the pre-defined coding guidelines has been followed or not.
+
+21) What are Event Emitters in Angular 8?
+Event Emitters: It is a class defined in @angular/core module which is used by components and directives to emit custom events.
+
+22) What is npm?
+npm stands for node package manager. npm is a command line utility that interacts with a repository of open source projects. We can install packages, libraries and applications, along with their dependencies by using npm.
+
+23) What is PrimeNG in Angular 8?
+PrimeNG: It is a collection of UI components for Angular 8. It is a sibling of the popular JavaServer Faces Component Suite, PrimeFaces.
+
+24) What is ECMAScript?
+ECMAScript: It is scripting language which is used for writing server applications and services using Node.js.
+
+25) What is Traceur in Angular 8?
+Traceur: It is a JavaScript compiler. This compiler is used to compile ES6 code into ES5 code. Traceur compiler supports ES5 and ES6.
+
+26) What is ngIf in Angular 8?
+ngIf: It is a directive element of Angular 8 that is used to add elements to the HTML code if it evaluates to true, else it will not add the elements to the HTML code.
+
+27) Which method is used to initialize the componentâ€™s views and child views in lifecycle?
+ngAfterViewInit() method.
+
+28) What is ngAfterViewChecked() in Angular 8 lifecycle?
+ngAfterViewChecked(): This method is used to checks the component’s views and child views.
